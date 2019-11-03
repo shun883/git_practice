@@ -18,3 +18,4 @@ assert fizzbuzz_convert(10) == 'Buzz'
 
 assert fizzbuzz_convert(15) == 'FizzBuzz'
 assert fizzbuzz_convert(30) == 'FizzBuzz'
+assert fizzbuzz_convert(60) == 'FizzBuzz'
